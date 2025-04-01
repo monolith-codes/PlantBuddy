@@ -1,5 +1,4 @@
-# plant_buddy
-
+# Plant Buddy
 A new Flutter project.
 
 ## Getting Started
